@@ -11,9 +11,45 @@
             "config/routes/annotations.yaml"
         ]
     },
+<<<<<<< Updated upstream
     "doctrine/lexer": {
         "version": "1.2.0"
     },
+=======
+    "doctrine/inflector": {
+        "version": "1.3.1"
+    },
+    "doctrine/lexer": {
+        "version": "1.2.0"
+    },
+    "guzzlehttp/guzzle": {
+        "version": "6.5.2"
+    },
+    "guzzlehttp/promises": {
+        "version": "v1.3.1"
+    },
+    "guzzlehttp/psr7": {
+        "version": "1.6.1"
+    },
+    "http-interop/http-factory-guzzle": {
+        "version": "1.0.0"
+    },
+    "jean85/pretty-package-versions": {
+        "version": "1.2"
+    },
+    "knplabs/knp-markdown-bundle": {
+        "version": "1.8.1"
+    },
+    "laminas/laminas-eventmanager": {
+        "version": "3.2.1"
+    },
+    "laminas/laminas-zendframework-bridge": {
+        "version": "1.1.1"
+    },
+    "michelf/php-markdown": {
+        "version": "1.9.0"
+    },
+>>>>>>> Stashed changes
     "monolog/monolog": {
         "version": "2.0.2"
     },
@@ -87,6 +123,12 @@
     "symfony/dependency-injection": {
         "version": "v5.0.4"
     },
+<<<<<<< Updated upstream
+=======
+    "symfony/deprecation-contracts": {
+        "version": "v2.4.0"
+    },
+>>>>>>> Stashed changes
     "symfony/dotenv": {
         "version": "v5.0.4"
     },
@@ -195,6 +237,12 @@
     "symfony/stopwatch": {
         "version": "v5.0.4"
     },
+<<<<<<< Updated upstream
+=======
+    "symfony/string": {
+        "version": "v5.1.11"
+    },
+>>>>>>> Stashed changes
     "symfony/translation-contracts": {
         "version": "v2.0.1"
     },
