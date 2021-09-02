@@ -24,7 +24,7 @@ class QuestionController extends AbstractController
     /**
      * @Route("/questions/{slug}", name="app_question_show")
      */
-    public function show($slug, MarkdownParserInterface $markdownParser, CacheInterface $cache, MarkdownHelper $markdownHelper)
+    public function show($slug)
     {
         $answers = [
             'Make sure your cat is sitting `purrrfectly` still 🤣',
