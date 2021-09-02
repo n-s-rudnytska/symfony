@@ -15,7 +15,7 @@ class QuestionController extends AbstractController
     /**
      * @Route("/", name="app_homepage")
      */
-    public function homepage(Environment $twigEnvironment)
+    public function homepage(Environment $twigEnvironment): ResponseInterfface
     {
 
         return $this->render('question/homepage.html.twig');
